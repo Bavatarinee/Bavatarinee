@@ -2,11 +2,11 @@
 
 I'm a Data Science postgraduate interested in Data Analytics, Machine Learning, and Generative AI.
 
-- 💼 Worked as an Associate Intern at Aosta India Pvt. Ltd.
-- 📊 Experience in healthcare data analysis, SQL Server reporting, and Power BI dashboards.
-- 🐍 Work with Python for data processing and machine learning projects.
-- 🤖 Exploring NLP, LLM applications, and Generative AI.
-- 📈 Interested in building data-driven solutions and interactive dashboards.
+-  Worked as an Associate Intern at Aosta India Pvt. Ltd.
+-  Experience in healthcare data analysis, SQL Server reporting, and Power BI dashboards.
+-  Work with Python for data processing and machine learning projects.
+-  Exploring NLP, LLM applications, and Generative AI.
+-  Interested in building data-driven solutions and interactive dashboards.
 
 ### Technical Skills
 - **Programming:** Python, R
